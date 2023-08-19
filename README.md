@@ -1,4 +1,4 @@
-# DivarApi 
+# DivarApi 🇮🇷
 
 Under construction! Not compelitly ready for use yet! Currently experimenting and planning!
 
@@ -64,6 +64,7 @@ Bot.get_post_pic(1692404705 , 'AZVD2hGi' , path = 'E:\\download\basefolder')
 # or if the link was incorrect you'll get statuscode - Bad request
 
 ```
+## On Developing state which means its not stable completly.
+## star the rep on github ❤️
 
-## Check out GitHub for more: https://GitHub.com/PalasOnGithub
-## star the rep on github <3
+

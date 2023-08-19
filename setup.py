@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     install_requires=['requests', 'bs4', 'urllib.parse' , 'sqlite3' , 'jwt'],
-    keywords=['python', 'divar', 'api', 'iran', 'web scraping', 'bot'],
+    keywords=['python', 'divar', 'api', 'iran', 'web scraping', 'bot' , 'palas'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
