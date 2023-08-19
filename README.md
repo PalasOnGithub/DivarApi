@@ -2,9 +2,16 @@
 
 Under construction! Not compelitly ready for use yet! Currently experimenting and planning!
 
+English / [فارسی - Farsi](README_fa.md)
+
 Developed by Palas - 2023
 
-## Examples - getting newest annon from a city (Buggy Alpha Version)
+# Examples - getting newest annon from a city (Buggy Alpha Version)
+
+## 1. Install the pkg using pip
+```
+pip3 install DivarApi
+```
 
 Creating A Client
 
