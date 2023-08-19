@@ -1,6 +1,6 @@
 # DivarApi 🇮🇷
 
-Under construction! Not compelitly ready for use yet! Currently experimenting and planning!
+Under construction! Not compelitly ready for use yet! Currently experimenting and planning! 
 
 English / [فارسی - Farsi](README_fa.md)
 
