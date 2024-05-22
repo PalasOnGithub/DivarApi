@@ -107,7 +107,7 @@ await AsyncDivarBot.GetNumber('PostToken')
 syncDuvarBot.GetNumber('PostToken')
 ```
 
-## New Feature Comming in v2.5:
-# Divar Chat 
-# Map specifing
-# and more...
+# New Feature Comming in v2.5:
+## Divar Chat 
+## Map specifing
+## and more...
