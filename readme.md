@@ -1,6 +1,5 @@
-# DivarApi 🇮🇷
+# Divar 🇮🇷
 
-English / [فارسی - Farsi](README_fa.md)
 
 Developed by V1Z/Palas - 2024
 
